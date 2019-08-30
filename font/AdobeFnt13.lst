@@ -1,0 +1,592 @@
+%!Adobe-FontList 1.13
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayBlackRevOblique
+FamilyName:Walkway Black RevOblique
+StyleName:Regular
+FullName:Walkway Black RevOblique
+MenuName:Walkway Black RevOblique
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Black RevOblique.ttf
+DataFormat:sfntData
+FileLength:26320
+FileModTime:1566391171
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayBlack
+FamilyName:Walkway Black
+StyleName:Regular
+FullName:Walkway Black
+MenuName:Walkway Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Black.ttf
+DataFormat:sfntData
+FileLength:23180
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayBoldRevOblique
+FamilyName:Walkway Bold RevOblique
+StyleName:Regular
+FullName:Walkway Bold RevOblique
+MenuName:Walkway Bold RevOblique
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Bold RevOblique.ttf
+DataFormat:sfntData
+FileLength:25876
+FileModTime:1566391169
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayBold
+FamilyName:Walkway Bold
+StyleName:Regular
+FullName:Walkway Bold
+MenuName:Walkway Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Bold.ttf
+DataFormat:sfntData
+FileLength:22544
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayCondensedBold
+FamilyName:Walkway Condensed Bold
+StyleName:Regular
+FullName:Walkway Condensed Bold
+MenuName:Walkway Condensed Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Condensed Bold.ttf
+DataFormat:sfntData
+FileLength:22832
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayCondensedSemiBold
+FamilyName:Walkway Condensed SemiBold
+StyleName:Regular
+FullName:Walkway Condensed SemiBold
+MenuName:Walkway Condensed SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Condensed SemiBold.ttf
+DataFormat:sfntData
+FileLength:22908
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayCondensed
+FamilyName:Walkway Condensed
+StyleName:Regular
+FullName:Walkway Condensed
+MenuName:Walkway Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Condensed.ttf
+DataFormat:sfntData
+FileLength:23092
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayExpandBlack
+FamilyName:Walkway Expand Black
+StyleName:Regular
+FullName:Walkway Expand Black
+MenuName:Walkway Expand Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Expand Black.ttf
+DataFormat:sfntData
+FileLength:23848
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayExpandBold
+FamilyName:Walkway Expand Bold
+StyleName:Regular
+FullName:Walkway Expand Bold
+MenuName:Walkway Expand Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Expand Bold.ttf
+DataFormat:sfntData
+FileLength:23748
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayExpandRevOblique
+FamilyName:Walkway Expand RevOblique
+StyleName:Regular
+FullName:Walkway Expand RevOblique
+MenuName:Walkway Expand RevOblique
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Expand RevOblique.ttf
+DataFormat:sfntData
+FileLength:26336
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayExpandSemiBold
+FamilyName:Walkway Expand SemiBold
+StyleName:Regular
+FullName:Walkway Expand SemiBold
+MenuName:Walkway Expand SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Expand SemiBold.ttf
+DataFormat:sfntData
+FileLength:23832
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayExpandUltraBold
+FamilyName:Walkway Expand UltraBold
+StyleName:Regular
+FullName:Walkway Expand UltraBold
+MenuName:Walkway Expand UltraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Expand UltraBold.ttf
+DataFormat:sfntData
+FileLength:23724
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayExpand
+FamilyName:Walkway Expand
+StyleName:Regular
+FullName:Walkway Expand
+MenuName:Walkway Expand
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Expand.ttf
+DataFormat:sfntData
+FileLength:23796
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayObliqueBlack
+FamilyName:Walkway Oblique Black
+StyleName:Regular
+FullName:Walkway Oblique Black
+MenuName:Walkway Oblique Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Oblique Black.ttf
+DataFormat:sfntData
+FileLength:25904
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayObliqueBold
+FamilyName:Walkway Oblique Bold
+StyleName:Regular
+FullName:Walkway Oblique Bold
+MenuName:Walkway Oblique Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Oblique Bold.ttf
+DataFormat:sfntData
+FileLength:25764
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayObliqueExpand
+FamilyName:Walkway Oblique Expand 
+StyleName:Regular
+FullName:Walkway Oblique Expand 
+MenuName:Walkway Oblique Expand 
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Oblique Expand.ttf
+DataFormat:sfntData
+FileLength:26472
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayObliqueSemiBold
+FamilyName:Walkway Oblique SemiBold
+StyleName:Regular
+FullName:Walkway Oblique SemiBold
+MenuName:Walkway Oblique SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Oblique SemiBold.ttf
+DataFormat:sfntData
+FileLength:25536
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayObliqueUltraBold
+FamilyName:Walkway Oblique UltraBold
+StyleName:Regular
+FullName:Walkway Oblique UltraBold
+MenuName:Walkway Oblique UltraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Oblique UltraBold.ttf
+DataFormat:sfntData
+FileLength:26232
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayOblique
+FamilyName:Walkway Oblique
+StyleName:Regular
+FullName:Walkway Oblique
+MenuName:Walkway Oblique
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway Oblique.ttf
+DataFormat:sfntData
+FileLength:25488
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayRevOblique
+FamilyName:Walkway RevOblique
+StyleName:Regular
+FullName:Walkway RevOblique
+MenuName:Walkway RevOblique
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway RevOblique.ttf
+DataFormat:sfntData
+FileLength:25484
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayRounded
+FamilyName:Walkway Rounded
+StyleName:Regular
+FullName:Walkway Rounded
+MenuName:Walkway Rounded
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway rounded.ttf
+DataFormat:sfntData
+FileLength:30772
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwaySemiBoldRevOblique
+FamilyName:Walkway SemiBold RevOblique
+StyleName:Regular
+FullName:Walkway SemiBold RevOblique
+MenuName:Walkway SemiBold RevOblique
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway SemiBold RevOblique.ttf
+DataFormat:sfntData
+FileLength:25640
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwaySemiBold
+FamilyName:Walkway SemiBold
+StyleName:Regular
+FullName:Walkway SemiBold
+MenuName:Walkway SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway SemiBold.ttf
+DataFormat:sfntData
+FileLength:22528
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayUltraBoldRevOblique
+FamilyName:Walkway UltraBold RevOblique
+StyleName:Regular
+FullName:Walkway UltraBold RevOblique
+MenuName:Walkway UltraBold RevOblique
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway UltraBold RevOblique.ttf
+DataFormat:sfntData
+FileLength:26044
+FileModTime:1566391170
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayUltraBold
+FamilyName:Walkway UltraBold
+StyleName:Regular
+FullName:Walkway UltraBold
+MenuName:Walkway UltraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway UltraBold.ttf
+DataFormat:sfntData
+FileLength:22556
+FileModTime:1566391171
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayUltraCondensedBold
+FamilyName:Walkway UltraCondensed Bold
+StyleName:Regular
+FullName:Walkway UltraCondensed Bold
+MenuName:Walkway UltraCondensed Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway UltraCondensed Bold.ttf
+DataFormat:sfntData
+FileLength:22188
+FileModTime:1566391171
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayUltraCondensedSemi
+FamilyName:Walkway UltraCondensed Semi
+StyleName:Regular
+FullName:Walkway UltraCondensed Semi
+MenuName:Walkway UltraCondensed Semi
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway UltraCondensed Semi.ttf
+DataFormat:sfntData
+FileLength:22388
+FileModTime:1566391171
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayUltraCondensed
+FamilyName:Walkway UltraCondensed
+StyleName:Regular
+FullName:Walkway UltraCondensed
+MenuName:Walkway UltraCondensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway UltraCondensed.ttf
+DataFormat:sfntData
+FileLength:22788
+FileModTime:1566391171
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayUltraExpandBold
+FamilyName:Walkway UltraExpand Bold
+StyleName:Regular
+FullName:Walkway UltraExpand Bold
+MenuName:Walkway UltraExpand Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway UltraExpand Bold.ttf
+DataFormat:sfntData
+FileLength:23900
+FileModTime:1566391171
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayUltraExpandSemiBold
+FamilyName:Walkway UltraExpand SemiBold
+StyleName:Regular
+FullName:Walkway UltraExpand SemiBold
+MenuName:Walkway UltraExpand SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway UltraExpand SemiBold.ttf
+DataFormat:sfntData
+FileLength:24036
+FileModTime:1566391171
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WalkwayUltraExpand
+FamilyName:Walkway UltraExpand
+StyleName:Regular
+FullName:Walkway UltraExpand
+MenuName:Walkway UltraExpand
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\fati\Desktop\Projet BibliothèqueCGL\Font\Walkway UltraExpand.ttf
+DataFormat:sfntData
+FileLength:24036
+FileModTime:1566391169
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
