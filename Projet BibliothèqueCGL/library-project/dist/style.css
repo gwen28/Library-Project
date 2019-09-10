@@ -1,0 +1,311 @@
+#logo
+{
+  width:420px;
+}
+
+@font-face
+{
+  font-family:'Walkway';
+  src:url'https://gwen28.github.io/LibraryProject/font/Walkway Bold RevOblique.ttf';
+  src:url'https://gwen28.github.io/LibraryProject/font/font/Walkway Oblique Bold.ttf';
+  src:url'https://gwen28.github.io/LibraryProject/font/font/Walkway Bold.ttf';
+  src:url'https://gwen28.github.io/LibraryProject/font/font/Walkway Black.ttf';
+  src:url'https://gwen28.github.io/LibraryProject/font/font/Walkway Oblique Black.ttf';
+  }
+
+h1{
+  font-family: 'walkway';
+  text-align:center;
+}
+
+ul
+{
+ list-style: none;
+  text-align:justify;
+  color:black;  
+  display: flex;
+  flex-direction:row;
+  padding:60px;
+  padding-left:150px;
+}
+li{
+  font-family:'Walkway Black';
+  font:'Oblique';
+  font-size:15pt;
+}
+#container
+{
+ 
+  border:2px solid black;
+  height: 120%;
+}
+#AsideLeft
+{
+  background-size: contain;
+  background-repeat: repeat;
+  background-image:url("https://gwen28.github.io/LibraryProject/liseret.jpg");
+   height:120%;
+   width: 80%;
+}
+.btn-light{
+  font-family:'Walkway Black';
+  
+   width:110%;
+margin-top:15px;
+  margin-left:2px;
+}
+#BarreHaut
+{
+  width:770px;
+	background:#1f8f91;
+  font-family: 'Walkway Black';
+  font-size:23pt;
+   padding-left:22px;
+  color:white;
+  }
+
+#BarreDroite
+{
+  height:85%;
+  margin-top:5px;
+  float:right;
+  width:20px;
+	background:#1f8f91;
+  
+   padding-left:22px;
+  
+  }
+#Cover{
+  margin-left:20px;
+  margin-top:30px;
+  padding:50px;
+  width:20px;
+  background:#1f8f91;
+float:left;}
+#Legend{
+  margin-top:50px;
+  margin-left:20%;
+   
+}
+.Article
+{
+  margin:55px;
+}
+
+#AsideRight  
+{ background-size: contain;
+  background-repeat: repeat;
+  background-image:url("https://gwen28.github.io/LibraryProject/imgasideright.jpg");
+   height:120%;
+   width: 80%;
+}
+.form-group
+{
+  margin:15px;
+}
+#foot{
+  text-align:center;
+ color:black;
+  margin: 120px;
+  margin-bottom:2%;
+}
+.comments{
+  color:#1f8f91;
+}
+
+
+/* Menu hamburger Framework
+- header */
+
+
+.header ul {
+  margin-top:48px;
+  margin: 20;
+  padding: 0;
+  list-style: none;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.header li a {
+  display: block;
+  padding: 20px 20px;
+  border-right: 1px solid #f4f4f4;
+  text-decoration: none;
+}
+
+.header li a:hover,
+.header .menu-btn:hover {
+  background-color: #f4f4f4;
+}
+
+.header .logo {
+  display: block;
+  float: left;
+  font-size: 2em;
+  padding: 10px 20px;
+  margin-top:45px;
+  text-decoration: none;
+}
+
+
+/* menu */
+
+.header .menu {
+  clear: both;
+  max-height: 0;
+  transition: max-height .2s ease-out;
+}
+
+/* menu icon */
+
+.header .menu-icon {
+  cursor: pointer;
+  display: inline-block;
+  float: right;
+  padding: 28px 20px;
+  position: relative;
+  user-select: none;
+}
+
+.header .menu-icon .navicon {
+  background: #333;
+  display: block;
+  height: 2px;
+  position: relative;
+  transition: background .2s ease-out;
+  width: 18px;
+  margin-right:195px;
+  
+}
+
+.header .menu-icon .navicon:before,
+.header .menu-icon .navicon:after {
+  background: #333;
+  content: '';
+  display: block;
+  height: 100%;
+  position: absolute;
+  transition: all .2s ease-out;
+  width: 100%;
+}
+
+.header .menu-icon .navicon:before {
+  top: 5px;
+}
+
+.header .menu-icon .navicon:after {
+  top: -5px;
+}
+
+/* menu btn */
+
+.header .menu-btn {
+  display: none;
+}
+
+.header .menu-btn:checked ~ .menu {
+  max-height: 240px;
+}
+
+.header .menu-btn:checked ~ .menu-icon .navicon {
+  background: transparent;
+}
+
+.header .menu-btn:checked ~ .menu-icon .navicon:before {
+  transform: rotate(-45deg);
+}
+
+.header .menu-btn:checked ~ .menu-icon .navicon:after {
+  transform: rotate(45deg);
+}
+
+.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+  top: 0;
+}
+
+
+
+/* 48em = 768px */
+
+@media (max-width: 48em) {
+ 
+   #logo{
+     width:220px;
+     }
+ 
+  
+    #libraryNavbar
+{
+clear: none;
+    float: right;
+    max-height: none;
+}
+  
+li{
+  font-family:'Walkway Black';
+  font:'Oblique';
+  font-size:9pt;
+}
+  ul{
+    list-style: none;
+  
+  color:black;  
+  
+
+  padding:60px;
+  padding-left:150px;
+  }
+  
+  #container
+{
+ 
+  border:2px solid black;
+  width:80%;
+  margin-top:55px;
+}
+  #BarreHaut
+{
+  width:380px;
+	background:#1f8f91;
+  font-family: 'Walkway Black';
+  font-size:23pt;
+   padding-left:22px;
+  color:white;
+  }
+#AsideRight  
+{ background-size: contain;
+  background-repeat: repeat;
+  background-image:url("https://gwen28.github.io/LibraryProject/imgasideright.jpg");
+   height:100%;
+   width: 80%;
+  margin-top:200px;
+}
+  #foot{
+  text-align:center;
+ color:black;
+  margin: 10px 100px 0px 0px;
+  margin-bottom:2%;
+}
+       }
+
+/* Menu hamburger Framework
+- Reqponsive */
+
+  @media (min-width: 48em) {
+  .header li {
+    float: left;
+  }
+  .header li a {
+    padding: 20px 30px;
+  }
+  .header .menu {
+    clear: none;
+    float: right;
+    max-height: none;
+  }
+  .header .menu-icon {
+    display: none;
+  }
+}
